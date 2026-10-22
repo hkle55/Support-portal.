@@ -16,3 +16,7 @@ Open index.html in a web browser. No server or packages are required.
 - Support hours include the time zone.
 
 Save all four files. Open index.html in your browser and verify the page displays and the styling loads. The mail link may open an email application; you do not need to send an email.
+
+## Support escalation
+Escalate unresolved billing requests to the billing team after one business day.
+
